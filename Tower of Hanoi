@@ -1,5 +1,8 @@
 #Tower of Hanoi#
 .data
+Author:
+.ascii      "Towers of Hanoi\n"
+    .asciiz     "Author: Amir Sohail\n"
 input: .asciiz     "\nEnter the number of disks: "
 Move: .asciiz      "\nMove disk from "
 To: .ascii      " to "
